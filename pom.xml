@@ -14,7 +14,7 @@
     <name>sports_portal</name>
     <description>sports_portal</description>
     <properties>
-        <java.version>19</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
